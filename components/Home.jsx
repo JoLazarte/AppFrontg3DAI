@@ -41,10 +41,10 @@ const categoryImageMap = {
     'Sopas': require('../assets/Images/Categories/sopas.png'),
     'Salsas': require('../assets/Images/Categories/Salsas.png'),
     'Panaderia': require('../assets/Images/Categories/pan.png'),
-    'Española': require('../assets/Images/Categories/Española.png'),
+    'Española': require('../assets/Images/Categories/Espanola.png'),
     'China': require('../assets/Images/Categories/China.png'),
     'Mexicana': require('../assets/Images/Categories/Mexicana.png'),
-    'Árabe': require('../assets/Images/Categories/Árabe.png'),
+    'Árabe': require('../assets/Images/Categories/Arabe.png'),
 };
 
 const RecipeCard = ({ item }) => {
